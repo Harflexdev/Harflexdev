@@ -30,13 +30,13 @@ achieve exceptional results.
 
 ## 👀 Vistors Count
 
-<img src="https://profile-counter.glitch.me/thegrtnx/count.svg" />
+<img src="https://profile-counter.glitch.me/Ismaila Afeez/count.svg" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thegrtnx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ismailaafeez&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ⌨️ Most Used Languages 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegrtnx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaila Afeez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📊 GitHub Stats
