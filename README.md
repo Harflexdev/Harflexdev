@@ -2,15 +2,8 @@ Hi there, [](https://user-images.githubusercontent.com/18350557/176309783-078594
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
-I'm Ismaila Afeez a software engineer specializing
-in crafting innovative solutions for real-world challenges.
-My expertise spans Next.js, React.js, Tailwind.css, Node.js,
-Nest.js, Express.js, MongoDB, MySQL, PHP, Git, PWAs, and
-SEO. With a robust career, I'm committed to creating impactful
-solutions for human-centered problems. I continuously refine
-my capabilities by staying updated on the latest technological
-insights and engaging in community-driven strategies to
-achieve exceptional results.
+
+Hello! I'm Ismaila Afeez, a dedicated web developer with a passion for transforming ideas into functional and visually appealing websites. My journey into the digital realm began with a fascination for coding, and I've since immersed myself in the dynamic world of web development. With a diverse skill set spanning HTML, CSS, JavaScript, and more, I specialize in crafting seamless user experiences and responsive designs. I thrive on challenges, consistently seeking innovative solutions to enhance web functionality. Collaborative by nature, I enjoy working with teams to bring projects to life. Let's build something extraordinary together! Explore my repositories and witness the fusion of creativity and code.
 
 
 ## 👨‍💻 Stack & Languages 
@@ -30,17 +23,17 @@ achieve exceptional results.
 
 ## 👀 Vistors Count
 
-<img src="https://profile-counter.glitch.me/Ismaila Afeez/count.svg" />
+<img src="https://profile-counter.glitch.me/harflexdev/count.svg" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ismailaafeez&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=harflexdev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ⌨️ Most Used Languages 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaila Afeez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harflexdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsmailaAfeez)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harflexdev)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=IsmailaAfeez&theme=dark&hide_border=true&border_radius=3.5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=harflexdev&theme=dark&hide_border=true&border_radius=3.5)](https://git.io/streak-stats)
